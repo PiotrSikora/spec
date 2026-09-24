@@ -2405,25 +2405,25 @@ changes to unrelated connections/requests.
 [memory management]: #Memory-management
 [serialized]: #Serialization
 
-[host features]: ./HOST_FEATURES.md
-[`HAS_CORE`]: ./HOST_FEATURES.md
-[`HAS_LOGGING`]: ./HOST_FEATURES.md
-[`HAS_HTTP_HEADERS`]: ./HOST_FEATURES.md
-[`HAS_HTTP_WITH_BODY`]: ./HOST_FEATURES.md
-[`HAS_HTTP_CALLOUTS_BUFFERED`]: ./HOST_FEATURES.md
-[`HAS_HTTP_CALLOUTS_STREAMING`]: ./HOST_FEATURES.md
-[`HAS_GRPC`]: ./HOST_FEATURES.md
-[`HAS_GRPC_CALLOUTS_BUFFERED`]: ./HOST_FEATURES.md
-[`HAS_GRPC_CALLOUTS_STREAMING`]: ./HOST_FEATURES.md
-[`HAS_TCP_FILTER`]: ./HOST_FEATURES.md
-[`HAS_TCP_WITH_PAYLOAD`]: ./HOST_FEATURES.md
-[`HAS_KEY_VALUE_STORES`]: ./HOST_FEATURES.md
-[`HAS_SHARED_QUEUES`]: ./HOST_FEATURES.md
-[`HAS_TIMERS`]: ./HOST_FEATURES.md
-[`HAS_METRICS`]: ./HOST_FEATURES.md
-[`HAS_PROPERTIES`]: ./HOST_FEATURES.md
-[`HAS_CUSTOM_FUNCTIONS`]: ./HOST_FEATURES.md
-[`HAS_WASI_PREVIEW1_CORE`]: ./HOST_FEATURES.md
+[host features]: ./registries/HOST_FEATURES.md
+[`HAS_CORE`]: ./registries/HOST_FEATURES.md
+[`HAS_LOGGING`]: ./registries/HOST_FEATURES.md
+[`HAS_HTTP_HEADERS`]: ./registries/HOST_FEATURES.md
+[`HAS_HTTP_WITH_BODY`]: ./registries/HOST_FEATURES.md
+[`HAS_HTTP_CALLOUTS_BUFFERED`]: ./registries/HOST_FEATURES.md
+[`HAS_HTTP_CALLOUTS_STREAMING`]: ./registries/HOST_FEATURES.md
+[`HAS_GRPC`]: ./registries/HOST_FEATURES.md
+[`HAS_GRPC_CALLOUTS_BUFFERED`]: ./registries/HOST_FEATURES.md
+[`HAS_GRPC_CALLOUTS_STREAMING`]: ./registries/HOST_FEATURES.md
+[`HAS_TCP_FILTER`]: ./registries/HOST_FEATURES.md
+[`HAS_TCP_WITH_PAYLOAD`]: ./registries/HOST_FEATURES.md
+[`HAS_KEY_VALUE_STORES`]: ./registries/HOST_FEATURES.md
+[`HAS_SHARED_QUEUES`]: ./registries/HOST_FEATURES.md
+[`HAS_TIMERS`]: ./registries/HOST_FEATURES.md
+[`HAS_METRICS`]: ./registries/HOST_FEATURES.md
+[`HAS_PROPERTIES`]: ./registries/HOST_FEATURES.md
+[`HAS_CUSTOM_FUNCTIONS`]: ./registries/HOST_FEATURES.md
+[`HAS_WASI_PREVIEW1_CORE`]: ./registries/HOST_FEATURES.md
 
 [`proxy_abi_version_0_x_x`]: #proxy_abi_version_0_x_x
 [`_initialize`]: #_initialize
