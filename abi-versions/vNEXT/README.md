@@ -123,7 +123,7 @@ This function is always supported.
 * returns:
   - `i32 (`[`proxy_status_t`]`) status`
 
-Retrieves a list of key-value pairs containing supported host features.
+Retrieves a list of key-value pairs containing supported [host features].
 
 Returned list (`return_serialized_features_data`,
 `return_serialized_features_size`) is [serialized].
@@ -2405,7 +2405,7 @@ changes to unrelated connections/requests.
 [memory management]: #Memory-management
 [serialized]: #Serialization
 
-[host functions]: ./HOST_FEATURES.md
+[host features]: ./HOST_FEATURES.md
 [`HAS_CORE`]: ./HOST_FEATURES.md
 [`HAS_LOGGING`]: ./HOST_FEATURES.md
 [`HAS_HTTP_HEADERS`]: ./HOST_FEATURES.md
