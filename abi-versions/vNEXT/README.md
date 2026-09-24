@@ -914,7 +914,7 @@ Returned `status` value is:
 - `OK` on success.
 - `UNKNOWN_RESOURCE_ID` for unknown `stream_context_id`.
 - `BAD_ARGUMENT` for unknown `stream_type`.
-- `UNIMPLEMENTED` when continuation of the requested `stream_type`
+- `NOT_SUPPORTED` when continuation of the requested `stream_type`
   is not supported.
 
 This function is available if any of the following features is enabled:
@@ -2322,10 +2322,9 @@ changes to unrelated connections/requests.
 - `EMPTY` = `7`
 - `CAS_MISMATCH` = `8`
 - `INTERNAL_FAILURE` = `10`
-- `UNIMPLEMENTED` = `12`
+- `NOT_SUPPORTED` = `12`
 - `UNKNOWN_RESOURCE_ID` = `13`
 - `CREATED` = `14`
-- `NOT_SUPPORTED` = `15`
 
 
 #### `proxy_action_t`
